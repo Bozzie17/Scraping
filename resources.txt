@@ -1,0 +1,7 @@
+URLs of examples of scraping to get past takealot.com
+
+https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
+https://www.edureka.co/blog/web-scraping-with-python/
+https://www.datacamp.com/community/tutorials/web-scraping-using-python
+https://docs.python-guide.org/scenarios/scrape/
+https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f
